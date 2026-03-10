@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**bobcat4848/bobcat4848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master of Science in Computer Science from Georgia Tech, specialized in Artificial Intelligence, with 12+ years of experience designing and shipping production systems across full-stack web, backend, data, and AI/ML.
 
-Here are some ideas to get you started:
+I’m a software engineer and applied AI practitioner who builds real-world products from architecture to deployment. My background spans full-stack development, scalable backend systems, and data-centric product engineering, with a focus on creating applications that are both technically strong and user-centered.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve delivered production software across the stack, building responsive frontend experiences, robust APIs and services, and the supporting data infrastructure needed to operate reliably at scale. I work well at the intersection of product, engineering, and applied AI, where thoughtful system design and fast execution both matter.
+
+I bring a senior-level execution mindset: strong ownership, technical depth, and clear communication with stakeholders. I’m especially effective in environments where full-stack software engineering, data science, and applied AI come together to create measurable business value.
+
+
+> “Simple things should be simple, complex things should be possible.”
+> — Alan Kay
